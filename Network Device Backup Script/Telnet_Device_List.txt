@@ -1,0 +1,2 @@
+#Comments begin with '#'
+#Format : 'vendor,host_name,host_ip'
