@@ -7,4 +7,4 @@ This repository contains a python script to automate Cisco, Huawei, HP switch an
        3. Line  31 : Set backup folder path for devices access via SSH
        4. Line 120 : Set backup folder path for devices access via Telnet
        5. Line 195 : Set path for file containing ssh devices list
-       6. Line 196 : Set path for file containing ssh devices list
+       6. Line 196 : Set path for file containing telnet devices list
