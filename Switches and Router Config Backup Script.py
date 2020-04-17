@@ -13,7 +13,7 @@ log_file_path = "<PATH-TO-LOG-FILE>"
 if !os.path.exists(log_file_path):
 		log_file = open(log_file_path, "a")
 
-#Function for device access via SSH
+#Function to access devices via SSH
 #====================================================================================================================================
 
 def ssh_devices(ssh_device_list) :
@@ -103,7 +103,7 @@ def ssh_devices(ssh_device_list) :
                         log_file.write("\n")
         log_file.write("\n")
 
-#Function for devices access via telnet
+#Function to access devices via telnet
 #====================================================================================================================================
 
 def telnet_devices(telnet_device_list):
