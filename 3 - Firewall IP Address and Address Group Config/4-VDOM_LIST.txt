@@ -1,0 +1,6 @@
+fw_location1,vdom_name1
+fw_location1,vdom_name2
+NULL,NULL
+fw_location2,vdom_name1
+fw_location2,vdom_name2
+#fw_location2,vdom_name3 //# indicates a comment
